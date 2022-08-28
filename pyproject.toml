@@ -5,9 +5,8 @@ description = ""
 authors = ["Robert Seidl <robertseidl425@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.8, <3.9"
+python = ">=3.7"
 portray = "^1.5.2"
-fastdownload = "^0.0.7"
 nbdev = "^2.2.8"
 
 [tool.poetry.dev-dependencies]
