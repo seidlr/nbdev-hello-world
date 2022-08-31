@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-hello-world",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev_hello_world"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-hello-world",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2\n\n\nA new markdown cell added to the index in VScode.\n\nfrom IPython.display import Markdown\nfrom tabulate import tabulate\ntable = [[\"Sun\",696000,1989100000],\n         [\"Earth\",6371,5973.6],\n         [\"Moon\",1737,73.5],\n         [\"Mars\",3390,641.85]]\nMarkdown(tabulate(\n  table, \n  headers=[\"Planet\",\"R (km)\", \"mass (x 10^29 kg)\"]\n))\n\n\n\nTable 1: Planets\n\n\nPlanet\nR (km)\nmass (x 10^29 kg)\n\n\n\n\nSun\n696000\n1.9891e+09\n\n\nEarth\n6371\n5973.6\n\n\nMoon\n1737\n73.5\n\n\nMars\n3390\n641.85\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default."
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()\n\n\n\n\nbar\n\n bar ()\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a callout note"
+  }
+]
