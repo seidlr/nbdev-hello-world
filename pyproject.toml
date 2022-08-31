@@ -8,6 +8,7 @@ authors = ["Robert Seidl <robertseidl425@gmail.com>"]
 python = ">=3.7"
 portray = "^1.5.2"
 nbdev = "^2.2.8"
+tabulate = "^0.8.10"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
